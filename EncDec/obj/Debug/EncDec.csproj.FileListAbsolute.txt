@@ -1,0 +1,10 @@
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.csproj.AssemblyReference.cache
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.Form1.resources
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.Properties.Resources.resources
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.csproj.GenerateResource.cache
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.csproj.CoreCompileInputs.cache
+E:\Test\EncDec\EncDec\bin\Debug\EncDec.exe.config
+E:\Test\EncDec\EncDec\bin\Debug\EncDec.exe
+E:\Test\EncDec\EncDec\bin\Debug\EncDec.pdb
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.exe
+E:\Test\EncDec\EncDec\obj\Debug\EncDec.pdb
